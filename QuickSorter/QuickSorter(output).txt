@@ -1,0 +1,57 @@
+First:
+
+Part 1:
+List sorted in 129 iterations.
+List sorted in 6533 iterations.
+List sorted in 65307 iterations.
+List sorted in 130221 iterations.
+Part 2:
+List sorted in 125 iterations.
+List sorted in 6127 iterations.
+List sorted in 64047 iterations.
+List sorted in 129169 iterations.
+Part 3:
+List sorted in 27 iterations.
+List sorted in 1679 iterations.
+List sorted in 44377 iterations.
+List sorted in 97903 iterations.
+
+
+
+Second:
+
+Part 1:
+List sorted in 127 iterations.
+List sorted in 6565 iterations.
+List sorted in 65171 iterations.
+List sorted in 130591 iterations.
+Part 2:
+List sorted in 127 iterations.
+List sorted in 6135 iterations.
+List sorted in 64355 iterations.
+List sorted in 129247 iterations.
+Part 3:
+List sorted in 31 iterations.
+List sorted in 1655 iterations.
+List sorted in 44723 iterations.
+List sorted in 98945 iterations.
+
+
+
+Third:
+
+Part 1:
+List sorted in 137 iterations.
+List sorted in 6557 iteratio12ns.
+List sorted in 65279 iterations.
+List sorted in 130301 iterations.
+Part 2:
+List sorted in 127 iterations.
+List sorted in 6177 iterations.
+List sorted in 64073 iterations.
+List sorted in 129059 iterations.
+Part 3:
+List sorted in 31 iterations.
+List sorted in 1669 iterations.
+List sorted in 44805 iterations.
+List sorted in 98771 iterations.
